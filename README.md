@@ -4,7 +4,7 @@ If you locate this library on your Python directory under lib/site-packages you 
 
 It contains two functions, send email with attachments and with no attachments
 
-## Run
+## Usage
 
 ```
 import pygmail
